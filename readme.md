@@ -1,0 +1,1 @@
+Simple script that injests list of GPS points from the game Space Engineers and spits them out in a unified numbered listing
